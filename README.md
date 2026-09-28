@@ -1,7 +1,10 @@
-# Customer & Marketing Analytics Dashboard
+### 📊 Customer & Marketing Analytics Dashboard
 
-Interactive Power BI dashboard analyzing customer behavior, purchasing patterns, product spending, campaign performance, customer segmentation, and engagement.
+Interactive Power BI dashboard analyzing customer behavior, purchasing patterns, product spending, customer segmentation, and marketing campaign performance. The project demonstrates data cleaning, DAX measures, KPI development, and interactive business reporting.
 
+**Tools:** Power BI | DAX | Excel
+
+🔗 [View Project](https://github.com/DanielJeremiahEnumaje/Customer-Marketing-Analytics-Dashboard)
 ## Project Overview
 
 This project analyzes customer and marketing data to identify patterns in customer spending, purchasing behavior, campaign response, and customer value.
