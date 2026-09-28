@@ -25,7 +25,7 @@ This page provides a high-level overview of:
 - Campaign acceptance performance
 - Spending by product category
 
-![Customer & Marketing Overview](screenshots/Customer-Marketing-Overview.png)
+![Customer & Marketing Overview](screenshots/Customer-&-Marketing-Overview.png)
 
 ### 2. Customer & Campaign Insights
 
@@ -42,7 +42,7 @@ This page provides deeper analysis of:
 - Average recency by customer segment
 - Complaints by customer segment
 
-![Customer & Campaign Insights](screenshots/Customer-Campaign-Insights.png)
+![Customer & Campaign Insights](screenshots/Customer-&-Campaign-Insights.png)
 
 ## Data Cleaning
 
